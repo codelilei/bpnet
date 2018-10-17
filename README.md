@@ -14,7 +14,7 @@ There is an example to load train data and train BP net to fit the sin function.
 
 
 # Build
-take windows for example, follow cmd commands below and run the vs project generated, where OpenCV_DIR points to the your own opencv installation path.
+take windows for example, follow cmd commands below and run the vs project generated, where OpenCV_DIR points to your own opencv installation path.
 
 ##
     cd %bpnet_root%
